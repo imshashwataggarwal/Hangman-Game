@@ -2,7 +2,6 @@
 # @Author - Shashwat Aggarwal
 # 
 # Hangman game
-#
 
 
 import random
